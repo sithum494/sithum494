@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithum494" alt="sithum494" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-###My Topic
----
+
 - 🔭 I’m currently working on **Fiverr,Upwork,Freelancer**
 
 - 🌱 I’m currently learning **java,html,css,python,Ai tools,Web Design**
